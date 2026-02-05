@@ -1,5 +1,5 @@
 # cti 110
-# P1lab1
+# P1LAB1
 # Andrew Worth
 # 2/5/2026
 # pratice Python program
